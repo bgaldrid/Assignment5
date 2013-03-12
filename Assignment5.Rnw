@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage{listings}
+
+
+\lstset{breaklines=true}
+
+\author{Ben Aldridge}
+\title{Assignment 4: Processing Large Data Sets}
+
+\begin{document}
+
+<<results=FALSE,echo=FALSE>>=
+opts_chunk$set(echo=FALSE,results='hide',warning=FALSE,error=TRUE,message=FALSE,concordance=TRUE,cache=TRUE,tidy=TRUE)
+
+@
+
+
+\maketitle
+\tableofcontents
+
+\newpage
+
